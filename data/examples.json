@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What is the penalty for early loan repayment?",
+    "sources": "Early repayment of a personal loan within the first 12 months attracts a penalty of 2% of the outstanding amount. After 12 months, no penalty applies.",
+    "answer": "The penalty is 2% of the outstanding amount, and it applies only in the first year.",
+    "claims": [
+      "The penalty is 2% of the outstanding amount.",
+      "The penalty applies only in the first year."
+    ]
+  },
+  {
+    "question": "How many days of annual leave do employees get?",
+    "sources": "Full-time employees receive 18 days of paid annual leave per year. Unused leave can be carried forward up to 5 days.",
+    "answer": "Employees get 24 days of leave, and unused days can be carried forward.",
+    "claims": [
+      "Employees get 24 days of leave.",
+      "Unused days can be carried forward."
+    ]
+  },
+  {
+    "question": "What are the support hours?",
+    "sources": "Customer support is available Monday to Friday, 9 AM to 6 PM IST.",
+    "answer": "Support is available on weekdays from 9 AM to 6 PM, and also offers 24/7 live chat.",
+    "claims": [
+      "Support is available on weekdays from 9 AM to 6 PM.",
+      "Support offers 24/7 live chat."
+    ]
+  },
+  {
+    "question": "What is the penalty for early loan repayment?",
+    " sources": "Early repayment of a personal loan within the first 12 months attracts a penalty of 2% of the outstanding amount. After 12 months, no penalty applies.",
+    "answer": "The penalty is 2% of the outstanding amount, and it applies only in the first year.",
+    "claims": [
+      "The penalty is 2% of the outstanding amount.",
+      "The penalty applies only in the first year."
+    ]
+  },
+  {
+    "question": "How many days of annual leave do employees get?",
+    "sources": "Full-time employees receive 18 days of paid annual leave per year. Unused leave can be carried forward up to 5 days.",
+    "answer": "Employees get 24 days of leave, and unused days can be carried forward.",
+    "claims": [
+      "Employees get 24 days of leave.",
+      "Unused days can be carried forward."
+    ]
+  },
+  {
+    "question": "What are the support hours?",
+    "sources": "Customer support is available Monday to Friday, 9 AM to 6 PM IST.",
+    "answer": "Support is available on weekdays from 9 AM to 6 PM, and also offers 24/7 live chat.",
+    "claims": [
+      "Support is available on weekdays from 9 AM to 6 PM.",
+      "Support offers 24/7 live chat."
+    ]
+  },
+  {
+    "question": "What are the library opening hours?",
+    "sources": "The library is open from 8 AM to 8 PM, Monday through Saturday.",
+    "answer": "The library operates from 8 AM to 8 PM, Monday through Saturday.",
+    "claims": [
+      "The library operates from 8 AM to 8 PM.",
+      "The library is open Monday through Saturday."
+    ]
+  },
+  {
+    "question": "What employee benefits are provided?",
+    "sources": "The company provides free Wi-Fi in its office.",
+    "answer": "The company provides free Wi-Fi and free lunch to all employees.",
+    "claims": [
+      "The company provides free Wi-Fi.",
+      "The company provides free lunch to all employees."
+    ]
+  }
+]
